@@ -28,10 +28,6 @@ Final score: 93.09 / 100 (A+)
 
 You could find more details in the directory of each homework.
 
-## Midterm project
-We solved a real-world operation research questions.\
-Please refer to the `./MidTermProject` directory for project questions and our solution.
-
 ## Final project
-We built a snake game with SFML, I was responsible for algorithm designing and degugging in our team.
-Please refer to the `./FinalProject` directory for the instructions to run this program.
+We built a China Times style news generator with N-gram, LSTM and GPT-2 model.
+For codes, please refer to this (repo)[https://github.com/shengyenlin/Introduction-to-information-retrieval-and-text-mining-Final-Fall-2020].
