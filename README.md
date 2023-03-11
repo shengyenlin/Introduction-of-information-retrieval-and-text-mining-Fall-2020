@@ -22,7 +22,7 @@ Final score: 93.09 / 100 (A+)
 
 ## Homework assignments
 - HW1: Extract terms from a document with tokenization, lowercasing, stemming, stopword removal
-- HW2
+- HW2: Convert a set of documents into tf-idf vectors.
 - HW3
 - HW4
 
