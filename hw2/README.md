@@ -16,6 +16,5 @@ For detailed explanation of my algorithm, please refer to `report.pdf`.
 
 ## Reproduce
 ```bash
-python3 preprocess.py
 python3 pa2.py
 ```
