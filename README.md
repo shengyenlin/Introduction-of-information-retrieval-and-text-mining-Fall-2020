@@ -1,4 +1,4 @@
-# Introduction of information retrieval and text mining, Fall 2020
+# Introduction to information retrieval and text mining, Fall 2020
 
 The course is aimed at graduate students who are interested in information retrieval and text mining. the first part of the course will cover the basics of information retrieval, including the manner of document representation, term weighting, and evaluation metrics used to compare information retrieval systems. Then, research topics, such as text classification and clustering, will be discussed to provide a comprehensive study on information retrieval and text mining.
 
