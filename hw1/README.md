@@ -8,6 +8,8 @@ Write a program to extract terms from a document.
 - Stopword removal
 - Save the result as a txt file
 
+For detailed instruction, please refer to `PA-1.pptx`.\
+For detailed explanation of my algorithm, please refer to `report.pdf`.
 
 ## Environment
 - Python: 3.6.8
