@@ -22,9 +22,9 @@ Final score: 93.09 / 100 (A+)
 
 ## Homework assignments
 - HW1: Extract terms from a document with tokenization, lowercasing, stemming, stopword removal
-- HW2: Convert a set of documents into tf-idf vectors.
-- HW3
-- HW4
+- HW2: Convert a set of documents into tf-idf vectors
+- HW3: Multinomial naive bayes classifier, feature selection with chi-square method
+- HW4: Hierarchical agglomerative clustering, speed up HAC with heap data structure
 
 You could find more details in the directory of each homework.
 
