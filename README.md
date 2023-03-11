@@ -29,5 +29,5 @@ Final score: 93.09 / 100 (A+)
 You could find more details in the directory of each homework.
 
 ## Final project
-We built a China Times style news generator with N-gram, LSTM and GPT-2 model.
+We built a China Times style news generator with N-gram, LSTM and GPT-2 model.\
 For codes, please refer to this [repo](https://github.com/shengyenlin/Introduction-to-information-retrieval-and-text-mining-Final-Fall-2020)
