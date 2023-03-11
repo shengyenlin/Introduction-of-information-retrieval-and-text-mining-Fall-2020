@@ -1,20 +1,16 @@
-# HW1 - Term extraction
+# HW3 - Multinominal naive bayes classifier, feature selection
 
 ## Requirement
-Write a program to extract terms from a document.
-- Tokenization
-- Lowercasing everything
-- Stemming using Porter’s algorithm
-- Stopword removal
-- Save the result as a txt file
+Write a program to buile Multinomial NB Classifier. Implemented chi-square test to select important features.
 
-For detailed instruction, please refer to 
+For detailed instruction, please refer to `PA-3.pptx`
+For detailed explanation of my algorithm, please refer to `report.pdf`.
 
 ## Environment
 - Python: 3.6.8
-- Packages: nltk
+- Packages: nltk, numpy, pandas
 
 ## Reproduce
 ```bash
-python3 pa1.py
+python3 pa3.py
 ```
